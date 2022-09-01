@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/ print iamafile
+ls > /tmp
