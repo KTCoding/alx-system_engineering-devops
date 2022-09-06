@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 't-e-b-o-g-o' 'g-r-o-b-t-b'
+tr 'te-b-o-g-o' 'gr-o-b-t-b'
