@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /etc/passwd |rep "root" |head -n3 |tain -n1
